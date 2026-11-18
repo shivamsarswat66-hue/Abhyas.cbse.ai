@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.log
+.idea
+.vscode
+android/app/build
+android/build
+android/.gradle
+android/local.properties
+android/captures
+*.iml
+.capacitor

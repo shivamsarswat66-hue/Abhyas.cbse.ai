@@ -1,0 +1,8 @@
+{
+  "appId": "ai.cbse.abhyas",
+  "appName": "Abhyas CBSE",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}
